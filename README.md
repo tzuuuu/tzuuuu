@@ -39,22 +39,10 @@ can actually use.
 
 ## 🎓 Education
 
-<table>
-  <tr>
-    <td width="50%">
-      <strong>National Chengchi University</strong><br>
-      M.S. in Computer Science<br>
-      2025–2027<br>
-      STARLab Research Member
-    </td>
-    <td width="50%">
-      <strong>Chung Yuan Christian University</strong><br>
-      B.B.A. in Information Management<br>
-      Minor in Information and Computer Engineering<br>
-      2021–2025
-    </td>
-  </tr>
-</table>
+- **National Chengchi University** — M.S. in Computer Science · 2025–2027
+  - STARLab Research Member
+- **Chung Yuan Christian University** — B.B.A. in Information Management · 2021–2025
+  - Minor in Information and Computer Engineering
 
 ---
 
