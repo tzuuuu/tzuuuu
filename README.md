@@ -124,13 +124,6 @@ can actually use.
 
 ---
 
-## 🌐 Languages I Speak
-
-- Chinese — Native or bilingual proficiency
-- English — Professional working proficiency
-
----
-
 ## 📫 Let's Connect
 
 <p>
